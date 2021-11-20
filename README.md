@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jakubbodzek, Game Developer](https://test.getweb24.pl)]
+[![Jakubbodzek, Game Developer](http://test.getweb24.pl/jbodzek.svg)]
 <!--
 **Jakubbodzek/Jakubbodzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
