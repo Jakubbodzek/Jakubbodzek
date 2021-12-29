@@ -5,14 +5,11 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <h2 align="center">📊 My Github Stats</h2>
 <h3 align="center">
   <a href="https://github.com/Jakubbodzek/github-readme-stats"><img alt="Jakub Bodzek Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakubbodzek&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  </h3>
  <h4 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
   </h4>
